@@ -1,0 +1,12 @@
+ADD ‘Cordless Screwdriver’ 30  1  2
+COST ‘Multi Bit Ratcheting’
+FIND ‘Thermostat’
+FIND ‘Hand Trucks’
+SELL ‘Hammer’ 1
+QUANTITY ‘Paint Cans’
+FIRE ‘Joshua Filler’
+HIRE 'Lewis hamilton' 35 G W.TR.F.SUN
+PROMOTE 'Lewis hamilton' M
+SCHEDULE
+SAW
+EXIT
