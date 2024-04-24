@@ -230,7 +230,7 @@ public class Store implements IStore {
                         //FileUtils.writeLineToOutputFile("inside this.items");
                         //if(item.getName().equalsIgnoreCase("'"+itemName+"'")) {
                         if(item.getName().equalsIgnoreCase("'"+itemName+"'")) {
-                            res_find = item.getQuantity()+" "+item.getName()+" are available in "+item.getAisle();
+                            res_find = item.getQuantity()+" "+item.getName()+" are available in aisle "+item.getAisle();
                             break;
                         }
                     }
